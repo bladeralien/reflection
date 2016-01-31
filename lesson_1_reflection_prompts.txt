@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    因为只显示不同的部分
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    可以看到以前的变化，随时修改，易于查错
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    变化太小不想保存，更灵活
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    同一个特性跨越多个文件
+
+How can you use the commands git log and git diff to view the history of files?
+
+    还能怎么用啊。
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    多commit
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    写代码
